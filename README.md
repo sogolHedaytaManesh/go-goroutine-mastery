@@ -53,8 +53,8 @@ Basic examples introducing goroutines and their behavior.
 ## How to Use
   Clone the repository:
   ```bash
-      git clone https://github.com/yourusername/goroutine-mastery.git
-      cd goroutine-mastery
+      git clone https://github.com/sogolHedaytaManesh/go-goroutine-mastery.git
+      cd go-goroutine-mastery
   ```
 Run the examples with go run as shown above.
 
